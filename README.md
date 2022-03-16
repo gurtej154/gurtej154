@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurtej Singh</h1>
-<h3 align="center">A passionate upcoming Full-stack developer from Australia</h3>
+<h3 align="center">A passionate Full-stack Developer from Adelaide, Australia</h3>
 
 <br>
 
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurtej154" alt="gurtej154" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js & MYSQL**
+- 🌱 I’m currently **Taking a break**
 
-- 👨‍💻 All of my projects are available at [https://gurtej154.github.io/Personal-portfolio-project/](https://gurtej154.github.io/Personal-portfolio-project/)
+- 👨‍💻 All of my projects are available at [Web Portfolio](https://gurtej154.github.io/GS-react-portfolio/)
 
 - 📫 How to reach me **gurtej154@gmail.com**
 
