@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gurtej Singh</h1>
-<h3 align="center">A passionate Full-stack Developer from Adelaide, Australia</h3>
+<h1 align="center">Hi 👋, I'm Gurj</h1>
+<h3 align="center">A passionate Web Developer & UX/UI Designer from Adelaide, Australia</h3>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently **Taking a break**
 
-- 👨‍💻 All of my projects are available at [Web Portfolio](https://gurtej154.github.io/GS-react-portfolio/)
+- 👨‍💻 All of my projects are available at [Web Portfolio](https://gurj.online/)
 
 - 📫 How to reach me **gurtej154@gmail.com**
 
