@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gurj</h1>
+<h1 align="center">Hi 👋 I'm Gurj</h1>
 <h3 align="center">A passionate Web Developer & UX/UI Designer from Adelaide, Australia</h3>
 
 <br>
