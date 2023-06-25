@@ -7,9 +7,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurtej154" alt="gurtej154" /></a> </p>
-
-- 🌱 I’m currently **Taking a break**
+- 🌱 I’m currently working as a **UX/UI Designer**
 
 - 👨‍💻 All of my projects are available at [Web Portfolio](https://gurj.online/)
 
